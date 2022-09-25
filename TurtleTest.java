@@ -13,6 +13,7 @@ public class TurtleTest {
     yertle.forward();
     yertle.turnRight();
     yertle.forward();
+    yertle.backward();
 
   
     world.setVisible(true);
